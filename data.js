@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.6231562043547356,
+        "pitch": 0.08496408823736346,
+        "fov": 1.4661211029866583
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.4977105494402672,
+        "pitch": 0.17154637299898923,
+        "fov": 1.4661211029866583
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -92,8 +92,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.9430584421360884,
-          "pitch": -0.011690837387162034,
+          "yaw": -1.616480206919217,
+          "pitch": 0.01663511943039886,
           "rotation": 0,
           "target": "1-nva---entry-pano-vr_nva_-_fishing_pond"
         }
