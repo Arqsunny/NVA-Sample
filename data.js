@@ -28,7 +28,14 @@ var APP_DATA = {
         "pitch": 0.08496408823736346,
         "fov": 1.4661211029866583
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -1.431169986635357,
+          "pitch": 0.06381954378654875,
+          "rotation": 6.283185307179586,
+          "target": "2-nva---courtyard-pano-vr"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": -1.3179865930841004,
@@ -66,7 +73,14 @@ var APP_DATA = {
         "pitch": 0.17154637299898923,
         "fov": 1.4661211029866583
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.5570467203960057,
+          "pitch": 0.01029135262953318,
+          "rotation": 0,
+          "target": "2-nva---courtyard-pano-vr"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": 1.6649495219916854,
@@ -110,13 +124,25 @@ var APP_DATA = {
           "pitch": 0.01663511943039886,
           "rotation": 0,
           "target": "1-nva---entry-pano-vr_nva_-_fishing_pond"
+        },
+        {
+          "yaw": 1.565917307380552,
+          "pitch": 0.10983377410136796,
+          "rotation": 0,
+          "target": "0-nva---entry-pano-vr_nva_-_entry"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.4173313439177129,
-          "pitch": 0,
+          "yaw": -1.615323373178537,
+          "pitch": 0.12848087826976773,
           "title": "Fishing Pond",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.571631800680116,
+          "pitch": 0.249172131574662,
+          "title": "Courtyard",
           "text": "Text"
         }
       ]
@@ -124,7 +150,7 @@ var APP_DATA = {
   ],
   "name": "NVA- Pano - Tour",
   "settings": {
-    "mouseViewMode": "qtvr",
+    "mouseViewMode": "drag",
     "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
