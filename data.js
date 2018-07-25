@@ -124,7 +124,7 @@ var APP_DATA = {
   ],
   "name": "NVA- Pano - Tour",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
